@@ -56,11 +56,3 @@ class Binary_to_text:
 		self.string.rstrip('`')
 			
 		return self.string
-
-
-#text = 'Shivam is a Genius'
-#text_to_binary = convert_text_to_binary(text).convert_to_binary()
-#print(text_to_binary)
-
-#converted_text = binary_to_text(text_to_binary).convert_to_text()
-#print("\nThe Decoded Message: {}".format(converted_text))
