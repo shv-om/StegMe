@@ -1,6 +1,7 @@
 # StegMe
-Steps to Use:
-1.  Choose whether you want to Encode or Decode the file encoded by the tool
 
-Encode:
-  1.  
+Encode Text Messages inside an Image and Decode them using this tool
+
+Usage with Python3
+
+Soon Coming with the Command Line Interface tool for this...
