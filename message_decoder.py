@@ -33,16 +33,7 @@ class Stego_Decode:
 						pass
 
 		# converting collected data to correct binary data
-		'''data = text_datalist
-
-		new_list = []
-
-		try:
-			for i in range(0, len(text_datalist), 8):
-				new_list.append(str(data[i]) + str(data[i+1]) + str(data[i+2]) + str(data[i+3]) + str(data[i+4]) + str(data[i+5]) + str(data[i+6]) + str(data[i+7]))
-		except:
-			pass'''
-
+		
 		data = iter(text_datalist)
 
 		new_list = []
