@@ -1,8 +1,5 @@
 import numpy as np
 from PIL import Image
-#import matplotlib.image as mplib_img
-
-#from convert import Text_to_binary
 
 class Stego_Encode:
 
@@ -10,7 +7,6 @@ class Stego_Encode:
 		self.im = Image.open(image_path)
 		self.binary_text_list = binary_text_list
 		self.pix = np.zeros((self.im.width, self.im.height, 3), np.uint8)
-
 
 	def encode(self):
 		text_data = iter(self.binary_text_list)
