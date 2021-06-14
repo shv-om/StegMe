@@ -18,8 +18,7 @@ You can visit the official website :    https://stegme.pythonanywhere.com
 
     How to Use:
 
-    1.  First you have to choose that you want to Encode some Message or want to Decode an Image sent by your friend using this Tool...
-    2.
+    1.  First you have to choose that what you want to Encode a Message or want to Decode an Image sent by your friend using this Tool...
 
 ''')
 
